@@ -4,3 +4,7 @@ git push
 git pull 
 git add
 git diff 
+git log 查看提交历史 
+--- reset --hard slfjsldjfl  #回退
+git reflog 
+--- reset --hard slfjsldjfl  #前进到未来
