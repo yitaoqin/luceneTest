@@ -1,1 +1,6 @@
 ssh-keygen -t rsa -C "your_email@youremail.com"
+git status
+git push 
+git pull 
+git add
+git diff 
